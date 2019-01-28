@@ -1,0 +1,7 @@
+
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(îªÑè8¹ì¬¼ï,
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(—Å˜¨8¹ì¬¼ï,
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(µÂ†÷8¹ì¬¼ï,
+Osquid:S1602*",Remove useless curly braces around statement(‹“ŒĞúÿÿÿÿ8¹ì¬¼ï,
+Jsquid:S1602-",Remove useless curly braces around statement(’¡óê8¹ì¬¼ï,
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õ¤œıÿÿÿÿ8¹ì¬¼ï,

@@ -1,0 +1,6 @@
+
+psquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(çüä!8¹ì¬¼ï,
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(İÊÏŞ8¹ì¬¼ï,
+Jsquid:S1602!",Remove useless curly braces around statement(ë©í8¹ì¬¼ï,
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Úìš—8¹ì¬¼ï,
+Osquid:S1612",Replace this lambda with a method reference.(‘…İ•ûÿÿÿÿ8¹ì¬¼ï,
